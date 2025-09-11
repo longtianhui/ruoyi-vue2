@@ -1,8 +1,8 @@
 
-import Pagination from "@/components/Pagination";
+// import Pagination from "@/components/Pagination"; 已经注册全局组件
 
 export const paginationMixin = {
-  components: { Pagination },
+  // components: { Pagination },
   data() {
     return {
       // ---------------- 通用状态 ----------------
